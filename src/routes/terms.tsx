@@ -15,7 +15,7 @@ export function Terms() {
       <div class="mb-3 flex flex-col gap-2">
         <span class="font-normal tracking-wide">
           These Terms of Service ("Terms") outline the terms and conditions
-          governing your use of Radon Games ("we," "us," or "our") and its
+          governing your use of ChildOrgans.lol ("we," "us," or "our") and its
           services. By using this service, you agree that you are agreeing to
           all of the terms and conditions written below and the{" "}
           <a
@@ -189,11 +189,11 @@ export function Terms() {
           You agree to resolve any dispute with us through binding arbitration
           rather than in court. Disputes can be submitted to{" "}
           <a
-            href="mailto:disputes@radon.games"
+            href="mailto:ceo@childorgans.lol"
             target="_blank"
             class="underline transition-all hover:text-accent-primary"
           >
-            disputes@radon.games
+            ceo@childorgans.lol
           </a>
           .
         </span>
