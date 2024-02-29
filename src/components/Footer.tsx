@@ -13,11 +13,11 @@ export function Footer() {
       <div class="flex flex-1 flex-col items-start justify-center gap-5">
         <Banner class="h-6" />
         <p class="text-xs">
-          An open-source unblocked games website built with simplicity in mind.
+          bob was here.
         </p>
         <div class="flex items-center gap-5">
           <a
-            href="https://github.com/Radon-Games/Radon-Games"
+            href="http://childorgans.lol"
             target="_blank"
             class="transition-colors hover:text-accent-primary"
             aria-label="GitHub"
@@ -25,7 +25,7 @@ export function Footer() {
             <PiGithubLogoBold />
           </a>
           <a
-            href="https://discord.gg/unblock"
+            href="http://childorgans.lol"
             target="_blank"
             class="transition-colors hover:text-accent-primary"
             aria-label="Discord"
@@ -33,7 +33,7 @@ export function Footer() {
             <PiDiscordLogoBold />
           </a>
           <a
-            href="https://www.patreon.com/Radon_Games"
+            href="http://childorgans.lol"
             target="_blank"
             class="transition-colors hover:text-accent-primary"
             aria-label="Patreon"
@@ -41,7 +41,7 @@ export function Footer() {
             <PiPatreonLogoBold />
           </a>
           <a
-            href={`https://github.com/Radon-Games/Radon-Games/releases/tag/v${version}`}
+            href={`http://childorgans.lol`}
             target="_blank"
             class="flex items-center gap-2 hover:text-accent-primary"
             aria-label="Changelog"
@@ -63,7 +63,7 @@ export function Footer() {
           </a>
           <a
             target="_blank"
-            href="https://discord.gg/t3d7wDA9WY"
+            href="http://childorgans.lol"
             class="hover:text-accent-primary"
           >
             Request
